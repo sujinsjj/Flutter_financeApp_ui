@@ -6,7 +6,7 @@ A new Flutter project.
 
 
 ## Demo
-![Demo Video](https://github.com/user-attachments/assets/9474c9e0-a1d0-400c-b371-1ebb44bbde07)
+https://github.com/user-attachments/assets/9474c9e0-a1d0-400c-b371-1ebb44bbde07
 
 ![photo_2024-09-17_21-16-34](https://github.com/user-attachments/assets/6ef83443-10c2-45ab-b79b-08d18ea3af1f)
 ![photo_2024-09-17_21-16-29](https://github.com/user-attachments/assets/56eb76d4-e49d-40f8-9b1d-bedb1f2e2cdf)
